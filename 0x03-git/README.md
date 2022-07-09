@@ -1,1 +1,1 @@
-i think i can collaborate with git now
+I think I can collaborate with git now
