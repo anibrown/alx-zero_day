@@ -1,1 +1,1 @@
-My second read me
+i think i can collaborate with git now
